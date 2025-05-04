@@ -7,7 +7,7 @@
 ![Chase](https://github.com/user-attachments/assets/2cc60ba2-baf7-4115-9c97-194cba68e14b)
 ![Laser](https://github.com/user-attachments/assets/9ebaee11-d3f5-446f-bf10-162e0fe512f6)
 
-<iframe src = "https://uncleanerwheat7-barrenvalley.github.io/Builds/KartRace/" width = "800" height = "600"></iframe>
+<iframe src = "https://uncleanerwheat7-barrenvalley.github.io/Builds/KartRace/" width = "480" height = "270"></iframe>
 
 ###Education
 MComp Game development - University of south wales
